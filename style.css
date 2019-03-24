@@ -1,0 +1,19 @@
+h1 {
+	font-family: tahoma;
+	color: red;
+	text-align: center;
+}
+
+p {
+	font-family: tahoma;
+	color: green;
+	text-align: justify;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+body {	
+	background-color: lightblue;
+	
+}
